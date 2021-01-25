@@ -165,7 +165,7 @@ let renderDrama = (message, share, sharePath, teaser) => {
             }
 
             function checkInputs() {
-                for (i in inputs) {
+                for (let i in inputs) {
                     if (konami[i] != inputs[i]) {
                         return false;
                     }
