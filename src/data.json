@@ -1,7 +1,22 @@
 {
     "combinations": {
         "people": [
-            "Larry"
+            "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry", "Larry",
+            "ocelotpotpie",
+            "Luck",
+            "kashike",
+            "Rían",
+            "mbaxter",
+            "Turbotailz",
+            "mmolitor87",
+            "ocelot",
+            "Disconsented",
+            "Vicarious",
+            "_11",
+            "electronicboy",
+            "Spottedleaf",
+            "Michael",
+            "zml"
         ],
         "sites": [
             "Syscraft"
@@ -122,7 +137,14 @@
             "$15",
             "$5",
             "€100",
-            "€250"
+            "€250",
+            "6 goats",
+            "294 goats",
+            "9 swine",
+            "901 prime giraffes",
+            "52 penguin mating pairs",
+            "3 potholes",
+            "16 ant colonies"
         ],
         "activates": [
             "activates",
@@ -297,13 +319,14 @@
         "[people] bans [platforms]-related software from [sites]",
         "[people] bans [things] from [sites] for breaking the [document]",
         "[people] bans [people] from [sites] for breaking the [document]",
-        "[people] joins governments around to world to ruin [things]",
-        "[people] joins governments around to world to ruin [badsoft]",
-        "[people] joins governments around to world to ruin [sites]",
-        "[people] joins governments around to world to ruin [servers]"
+        "[people] joins governments around the world to ruin [things]",
+        "[people] joins governments around the world to ruin [badsoft]",
+        "[people] joins governments around the world to ruin [sites]",
+        "[people] joins governments around the world to ruin [servers]"
     ],
 
     "social": [
-        "Trending on r/syscraft !!!"
+        "Trending on r/syscraft !!!",
+        "This just in with Larry!"
     ]
 }
